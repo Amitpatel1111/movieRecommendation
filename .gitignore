@@ -1,0 +1,17 @@
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large model files
+*.pkl
+
+# Ignore Conda environment folder
+env/
+.venv/
+
+# Ignore log files
+*.log
